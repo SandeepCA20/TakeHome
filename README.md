@@ -5,6 +5,16 @@ Take Home app is an Android app which communicates with the public Github API in
 
 
 ## Features
+- MVVM
+- Hilt
+- Retrofit
+- DataBinding
+- Coroutine
+- Kotlin
+- MockWebServer 
+
+
+## About App
 
 - The app accepts a github user's id as input and display the specified user's avatar and name.
 - For each public repository owned by the user, the name and description are shown in a scrollable list.
